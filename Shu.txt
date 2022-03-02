@@ -1,9 +1,6 @@
 xyz
 PQR
 
-abc 
-xyz
-
 jhl
 
 if l<=k
